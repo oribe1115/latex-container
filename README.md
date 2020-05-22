@@ -14,3 +14,7 @@ VS Code Remote Developmentを用いたLaTeX環境
 2. VS Code Remote Containerでフォルダーを開く
 3. `.tex`, `.sty`, `.bib`ファイル等を配置する
 4. `.tex`ファイルを開き，タブでプレビューを開く
+
+## 文章校正機能
+
+[textlint](https://github.com/textlint/textlint)を用いて文章校正を行う機能
